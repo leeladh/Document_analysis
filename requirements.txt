@@ -1,0 +1,10 @@
+PyMuPDF
+pytesseract
+spacy
+python-docx
+ultralytics
+Pillow
+opencv-python
+fastapi
+uvicorn
+python-multipart
